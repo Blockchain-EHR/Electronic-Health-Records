@@ -1,4 +1,4 @@
-\# Blockchain-Based Electronic Health Records
+# Blockchain-Based Electronic Health Records
 
 
 
@@ -6,65 +6,65 @@ This project is a blockchain-based Electronic Health Records system.
 
 
 
-\## Team Responsibilities
+## Team Responsibilities
 
 
 
-\### Member 1 - Backend \& Database
+### Member 1 - Backend \& Database
 
-\- Spring Boot API
+- Spring Boot API
 
-\- PostgreSQL
+- PostgreSQL
 
-\- Authentication
+- Authentication
 
-\- File upload
+- File upload
 
-\- Hash generation
+- Hash generation
 
-\- Blockchain integration
-
-
-
-\### Member 2 - Blockchain
-
-\- Solidity smart contracts
-
-\- Hardhat setup
-
-\- Access control
-
-\- Record hash storage
-
-\- Contract tests
+- Blockchain integration
 
 
 
-\### Member 3 - Frontend
+### Member 2 - Blockchain
 
-\- React UI
+- Solidity smart contracts
 
-\- Login/Register pages
+- Hardhat setup
 
-\- Patient dashboard
+- Access control
 
-\- Doctor dashboard
+- Record hash storage
 
-\- Medical record screens
-
-\- API integration
+- Contract tests
 
 
 
-\## Project Structure
+### Member 3 - Frontend
+
+- React UI
+
+- Login/Register pages
+
+- Patient dashboard
+
+- Doctor dashboard
+
+- Medical record screens
+
+- API integration
 
 
 
-\- frontend/: React application
+## Project Structure
 
-\- backend/: Spring Boot application
 
-\- blockchain/: Solidity smart contracts
 
-\- docs/: project documentation
+- frontend/: React application
+
+- backend/: Spring Boot application
+
+- blockchain/: Solidity smart contracts
+
+- docs/: project documentation
 
